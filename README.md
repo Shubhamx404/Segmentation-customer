@@ -1,4 +1,4 @@
-#  E-Commerce Customer Segmentation
+## Customer Segmentation
 
 This project analyzes customer purchasing behavior on an e-commerce platform and segments customers into meaningful groups using clustering techniques.  
 The goal is to understand customer patterns to improve marketing strategies, personalize offers, and enhance user retention.
