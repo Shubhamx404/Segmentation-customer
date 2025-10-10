@@ -143,10 +143,10 @@ From the Map, You'll see that the dataset is largely dominated by orders made fr
 
 ```bash
 # 1️ Clone this repository
-git clone https://github.com/Shubhamx404/customer-segmentation.git
+git clone https://github.com/Shubhamx404/Segmentation-customer.git
 
 # 2️ Navigate to the folder
-cd customer-segmentation
+cd Segmentation-customer
 
 # 3️ Install dependencies
 pip install -r requirements.txt
