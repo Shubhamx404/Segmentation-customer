@@ -1,11 +1,11 @@
-# 🛍️ E-Commerce Customer Segmentation
+#  E-Commerce Customer Segmentation
 
 This project analyzes customer purchasing behavior on an e-commerce platform and segments customers into meaningful groups using clustering techniques.  
 The goal is to understand customer patterns to improve marketing strategies, personalize offers, and enhance user retention.
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 The dataset contains transactional information about customers’ purchases over a period of one year.  
 Each record represents a purchase made by a customer, including details such as product, date, and price.
@@ -14,7 +14,7 @@ Using **K-Means Clustering**, **RFM Analysis**, and **Visualization techniques**
 
 ---
 
-## 🧠 Objectives
+##  Objectives
 
 - Segment customers based on purchase behavior  
 - Identify high-value and at-risk customers  
@@ -23,7 +23,7 @@ Using **K-Means Clustering**, **RFM Analysis**, and **Visualization techniques**
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 | Column | Description |
 |--------|--------------|
@@ -34,8 +34,8 @@ Using **K-Means Clustering**, **RFM Analysis**, and **Visualization techniques**
 | `UnitPrice` | Price per product |
 | `Country` | Customer’s country |
 
-📦 **Total customers:** ~4000  
-🛒 **Period:** 1 year of transactions  
+ **Total customers:** ~4000  
+ **Period:** 1 year of transactions  
 
 ---
 
@@ -60,7 +60,7 @@ Using **K-Means Clustering**, **RFM Analysis**, and **Visualization techniques**
 
 ---
 
-## 📈 Results & Insights
+##  Results & Insights
 
 - **Cluster 0** – Loyal, high-value customers  
 - **Cluster 1** – Occasional shoppers with moderate spending  
@@ -73,7 +73,7 @@ These insights can guide marketing teams to:
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 # Data Exploration
 
@@ -127,11 +127,10 @@ From the Map, You'll see that the dataset is largely dominated by orders made fr
 ![random_forest_learning_curve](https://user-images.githubusercontent.com/25388109/86506022-25487780-bdc3-11ea-88a8-5ba35d71c89f.png)
 
 
-> 💡 You can replace these with your actual output graphs from the notebook.
 
 ---
 
-## 🧩 Technologies Used
+## Technologies Used
 
 - **Python**  
 - **Pandas**, **NumPy**  
@@ -140,17 +139,17 @@ From the Map, You'll see that the dataset is largely dominated by orders made fr
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ```bash
-# 1️⃣ Clone this repository
-git clone https://github.com/<your-username>/customer-segmentation.git
+# 1️ Clone this repository
+git clone https://github.com/Shubhamx404/customer-segmentation.git
 
-# 2️⃣ Navigate to the folder
+# 2️ Navigate to the folder
 cd customer-segmentation
 
-# 3️⃣ Install dependencies
+# 3️ Install dependencies
 pip install -r requirements.txt
 
-# 4️⃣ Run the notebook
+# 4️ Run the notebook
 jupyter notebook CUSTOMER_SEGMENT.ipynb
